@@ -4,6 +4,12 @@ _Touch, responsive, flickable carousels_
 
 See [flickity.metafizzy.co](https://flickity.metafizzy.co) for complete docs and demos.
 
+## Terabyte Fork Information
+
+This is a fork of [yesman82/flickity](https://github.com/yesman82/flickity), which implements [Pull Request #1109](https://github.com/metafizzy/flickity/pull/1109) to implement support for the `<picture>` element on Flickity v2.2.1.
+
+This fork exists only so we can have a version of this custom version of Flickity that we control, so we can use it for its `<picture>` element support while being sure another repository owner couldn't make it unavailable.
+
 ## Install
 
 ### Download
